@@ -1,3 +1,4 @@
 https://getwaves.io/ // untuk mendapatkan pola ombak
 https://unsplash.com/ // gambar gratis
 https://fonts.google.com/ // referensi fonts
+https://michalsnik.github.io/aos/  // animation on scroll
